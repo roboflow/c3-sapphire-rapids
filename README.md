@@ -8,13 +8,14 @@ Before running the code, make sure you have the following prerequisites installe
 
 - Python 3.x
 - OpenCV (`opencv-python`)
+- Supervision (`supervision`)
 - Requests (`requests`)
 - Argparse (`argparse`) for command-line arguments
 
 You can install these dependencies using `pip`:
 
 ```bash
-pip install opencv-python requests argparse
+pip install opencv-python supervision requests argparse
 ```
 
 ![Autonomous River Monitoring](prediction.jpeg)
