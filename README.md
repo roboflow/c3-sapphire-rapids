@@ -1,4 +1,4 @@
-# Creating a computer vision system for remote environments
+# Creating a computer vision system for remote environments with Roboflow and Intel C3 Sapphire Rapids
 
 In this technical guide, we will walk through the process of building an autonomous river monitoring and cleaning system leveraging Roboflow to collect, label, and process visual data, then utilize Intel C3 Sapphire Rapids for model training and model deployment.
 
